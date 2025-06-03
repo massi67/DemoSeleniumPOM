@@ -17,6 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage {
 	
+	//creating webdriver object
 	WebDriver driver;
 
 	@FindBy(xpath = "//p[text()='HCLTech']/parent::li")
