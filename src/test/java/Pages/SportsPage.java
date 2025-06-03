@@ -49,4 +49,6 @@ public class SportsPage {
 		wait.until(ExpectedConditions.visibilityOf(news));
 		news.click();
 	}
+	//test
+	//adding this line to create merge conflict
 }
