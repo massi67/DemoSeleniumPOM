@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class SportsPage {
-	
+	//change by Basavaraj
 	WebDriver driver;
 	
 	@FindBy(xpath = "//h2")
