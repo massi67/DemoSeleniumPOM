@@ -49,4 +49,6 @@ public class SportsPage {
 		wait.until(ExpectedConditions.visibilityOf(news));
 		news.click();
 	}
+	
+	//for checking git push code merge problems
 }
